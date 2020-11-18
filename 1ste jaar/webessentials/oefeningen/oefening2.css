@@ -1,0 +1,49 @@
+body {
+  background-image: url("assets/hout.jpg");
+}
+
+table {
+  border: 5px solid black;
+  border-collapse: collapse;
+  table-layout: fixed;
+  width: 650px;
+  height: 650px;
+  display: inline-table;
+}
+
+td, th {
+  border: 3px solid black;
+}
+
+.wit {
+  background-image: url("assets/witte-marmer.jpg");
+  height: 50px;
+  width: 50px;
+}
+
+.zwart {
+  background-image: url("assets/zwarte-marmer.jpg");
+  height: 50px;
+  width: 50px;
+}
+/**
+alternatieve oplossing:
+td tr:nth-child(even)
+{
+    background-image: url("assets/witte-marmer.jpg");
+}
+td tr:nth-child(odd)
+{
+    background-image: url("assets/zwarte-marmer.jpg");
+}
+**/
+
+div {
+  background-image: url("assets/witte-marmer.jpg");
+  border: 5px solid black;
+  float: right;
+  width: 250px;
+  display: inline-block;
+  font-size: large;
+  padding: 10px;
+}
