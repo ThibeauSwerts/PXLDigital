@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/H7/H7.iml" filepath="$PROJECT_DIR$/H7/H7.iml" />
       <module fileurl="file://$PROJECT_DIR$/H8/H8.iml" filepath="$PROJECT_DIR$/H8/H8.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java essentials.iml" filepath="$PROJECT_DIR$/Java essentials.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testing/testing.iml" filepath="$PROJECT_DIR$/testing/testing.iml" />
     </modules>
   </component>
 </project>

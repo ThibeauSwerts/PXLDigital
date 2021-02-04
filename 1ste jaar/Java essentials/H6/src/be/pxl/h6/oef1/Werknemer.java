@@ -8,7 +8,8 @@ public class Werknemer extends Persoon {
     private static final int MINIMUM_SALARIS = 1000;
     private static int tel;
 
-    public Werknemer(String naam, String voornaam) {
+    public Werknemer(String naam, String voornaam)
+    {
         this(naam,voornaam, "algemeen bediende", 1800);
     }
 

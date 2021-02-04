@@ -43,22 +43,26 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="X:\PXLDigital\1ste jaar\Java essentials" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="X:\PXLDigital\1ste jaar\Java essentials\H6\src\be\pxl\h6" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FigurenApp">
-    <configuration name="FigurenApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="be.pxl.h6.opdracht8.FigurenApp" />
-      <module name="H6" />
+  <component name="RunManager" selected="Application.testingstrings">
+    <configuration name="HuwelijkApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="be.pxl.h5.oef1.HuwelijkApp" />
+      <module name="Java essentials" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="be.pxl.h6.opdracht8.*" />
+          <option name="PATTERN" value="be.pxl.h5.oef1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,24 +71,11 @@
       </method>
     </configuration>
     <configuration name="Integer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="be.pxl.opdracht.voorbeeld.voorbeeld.Integer" />
+      <option name="MAIN_CLASS_NAME" value="be.pxl.h8.voorbeeld.Integer" />
       <module name="H8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="be.pxl.opdracht.voorbeeld.voorbeeld.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="KlasApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="be.pxl.h2.opdracht10.KlasApp" />
-      <module name="H2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="be.pxl.h2.opdracht10.*" />
+          <option name="PATTERN" value="be.pxl.h8.voorbeeld.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +96,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RechthoekApp (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="be.pxl.h2.RechthoekApp.RechthoekApp" />
-      <module name="H2" />
+    <configuration name="Listvb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="be.pxl.h8.Listvoorbeeld.Listvb" />
+      <module name="H8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="be.pxl.h2.RechthoekApp.*" />
+          <option name="PATTERN" value="be.pxl.h8.Listvoorbeeld.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testingstrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testpackage.testingstrings" />
+      <module name="testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testpackage.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FigurenApp" />
-        <item itemvalue="Application.List" />
+        <item itemvalue="Application.testingstrings" />
+        <item itemvalue="Application.HuwelijkApp" />
         <item itemvalue="Application.Integer" />
-        <item itemvalue="Application.KlasApp" />
-        <item itemvalue="Application.RechthoekApp (1)" />
+        <item itemvalue="Application.List" />
+        <item itemvalue="Application.Listvb" />
       </list>
     </recent_temporary>
   </component>
@@ -156,10 +160,11 @@
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
     <state x="-1480" y="114" key="#Project_Structure/0.0.3440.1440/-1920.0.1920.1080/3440.150.1280.720@-1920.0.1920.1080" timestamp="1609857674802" />
-    <state x="-1155" y="240" key="#com.intellij.ide.util.MemberChooser" timestamp="1609773088474">
-      <screen x="-1920" y="0" width="1920" height="1080" />
+    <state x="1371" y="320" key="#com.intellij.ide.util.MemberChooser" timestamp="1612373569647">
+      <screen x="0" y="0" width="3440" height="1440" />
     </state>
     <state x="-1155" y="240" key="#com.intellij.ide.util.MemberChooser/0.0.3440.1440/-1920.0.1920.1080/3440.150.1280.720@-1920.0.1920.1080" timestamp="1609773088474" />
+    <state x="1371" y="320" key="#com.intellij.ide.util.MemberChooser/0.0.3440.1440/-1920.0.1920.1080/3440.150.1280.720@0.0.3440.1440" timestamp="1612373569647" />
     <state x="1371" y="320" key="#com.intellij.ide.util.MemberChooser/0.0.3440.1440/3440.211.1920.1080/-1280.435.1280.720@0.0.3440.1440" timestamp="1606394336387" />
     <state x="4205" y="451" key="#com.intellij.ide.util.MemberChooser/0.0.3440.1440/3440.211.1920.1080/-1280.435.1280.720@3440.211.1920.1080" timestamp="1606395460538" />
     <state x="954" y="330" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1606140280968">
@@ -170,28 +175,32 @@
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
     <state x="-1230" y="286" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.3440.1440/-1920.0.1920.1080/3440.150.1280.720@-1920.0.1920.1080" timestamp="1609860092392" />
-    <state width="1877" height="202" key="GridCell.Tab.0.bottom" timestamp="1609860141009">
-      <screen x="-1920" y="0" width="1920" height="1080" />
+    <state width="3397" height="286" key="GridCell.Tab.0.bottom" timestamp="1612445936346">
+      <screen x="0" y="0" width="3440" height="1440" />
     </state>
-    <state width="1877" height="202" key="GridCell.Tab.0.bottom/0.0.3440.1440/-1920.0.1920.1080/3440.150.1280.720@-1920.0.1920.1080" timestamp="1609860141009" />
+    <state width="1877" height="202" key="GridCell.Tab.0.bottom/0.0.3440.1440/-1920.0.1920.1080/3440.150.1280.720@-1920.0.1920.1080" timestamp="1609860370268" />
+    <state width="3397" height="286" key="GridCell.Tab.0.bottom/0.0.3440.1440/-1920.0.1920.1080/3440.150.1280.720@0.0.3440.1440" timestamp="1612445936346" />
     <state width="669" height="182" key="GridCell.Tab.0.bottom/0.0.3440.1440/3440.211.1920.1080/-1280.435.1280.720@0.0.3440.1440" timestamp="1605806340356" />
     <state width="1877" height="202" key="GridCell.Tab.0.bottom/0.0.3440.1440/3440.211.1920.1080/-1280.435.1280.720@3440.211.1920.1080" timestamp="1606412805492" />
-    <state width="1877" height="202" key="GridCell.Tab.0.center" timestamp="1609860141009">
-      <screen x="-1920" y="0" width="1920" height="1080" />
+    <state width="3397" height="286" key="GridCell.Tab.0.center" timestamp="1612445936346">
+      <screen x="0" y="0" width="3440" height="1440" />
     </state>
-    <state width="1877" height="202" key="GridCell.Tab.0.center/0.0.3440.1440/-1920.0.1920.1080/3440.150.1280.720@-1920.0.1920.1080" timestamp="1609860141009" />
+    <state width="1877" height="202" key="GridCell.Tab.0.center/0.0.3440.1440/-1920.0.1920.1080/3440.150.1280.720@-1920.0.1920.1080" timestamp="1609860370268" />
+    <state width="3397" height="286" key="GridCell.Tab.0.center/0.0.3440.1440/-1920.0.1920.1080/3440.150.1280.720@0.0.3440.1440" timestamp="1612445936346" />
     <state width="669" height="182" key="GridCell.Tab.0.center/0.0.3440.1440/3440.211.1920.1080/-1280.435.1280.720@0.0.3440.1440" timestamp="1605806340356" />
     <state width="1877" height="202" key="GridCell.Tab.0.center/0.0.3440.1440/3440.211.1920.1080/-1280.435.1280.720@3440.211.1920.1080" timestamp="1606412805492" />
-    <state width="1877" height="202" key="GridCell.Tab.0.left" timestamp="1609860141009">
-      <screen x="-1920" y="0" width="1920" height="1080" />
+    <state width="3397" height="286" key="GridCell.Tab.0.left" timestamp="1612445936346">
+      <screen x="0" y="0" width="3440" height="1440" />
     </state>
-    <state width="1877" height="202" key="GridCell.Tab.0.left/0.0.3440.1440/-1920.0.1920.1080/3440.150.1280.720@-1920.0.1920.1080" timestamp="1609860141009" />
+    <state width="1877" height="202" key="GridCell.Tab.0.left/0.0.3440.1440/-1920.0.1920.1080/3440.150.1280.720@-1920.0.1920.1080" timestamp="1609860370268" />
+    <state width="3397" height="286" key="GridCell.Tab.0.left/0.0.3440.1440/-1920.0.1920.1080/3440.150.1280.720@0.0.3440.1440" timestamp="1612445936346" />
     <state width="669" height="182" key="GridCell.Tab.0.left/0.0.3440.1440/3440.211.1920.1080/-1280.435.1280.720@0.0.3440.1440" timestamp="1605806340356" />
     <state width="1877" height="202" key="GridCell.Tab.0.left/0.0.3440.1440/3440.211.1920.1080/-1280.435.1280.720@3440.211.1920.1080" timestamp="1606412805492" />
-    <state width="1877" height="202" key="GridCell.Tab.0.right" timestamp="1609860141009">
-      <screen x="-1920" y="0" width="1920" height="1080" />
+    <state width="3397" height="286" key="GridCell.Tab.0.right" timestamp="1612445936346">
+      <screen x="0" y="0" width="3440" height="1440" />
     </state>
-    <state width="1877" height="202" key="GridCell.Tab.0.right/0.0.3440.1440/-1920.0.1920.1080/3440.150.1280.720@-1920.0.1920.1080" timestamp="1609860141009" />
+    <state width="1877" height="202" key="GridCell.Tab.0.right/0.0.3440.1440/-1920.0.1920.1080/3440.150.1280.720@-1920.0.1920.1080" timestamp="1609860370268" />
+    <state width="3397" height="286" key="GridCell.Tab.0.right/0.0.3440.1440/-1920.0.1920.1080/3440.150.1280.720@0.0.3440.1440" timestamp="1612445936346" />
     <state width="669" height="182" key="GridCell.Tab.0.right/0.0.3440.1440/3440.211.1920.1080/-1280.435.1280.720@0.0.3440.1440" timestamp="1605806340356" />
     <state width="1877" height="202" key="GridCell.Tab.0.right/0.0.3440.1440/3440.211.1920.1080/-1280.435.1280.720@3440.211.1920.1080" timestamp="1606412805492" />
     <state width="1698" height="507" key="GridCell.Tab.1.bottom" timestamp="1605700643503">
@@ -210,10 +219,11 @@
       <screen x="0" y="0" width="3440" height="1440" />
     </state>
     <state width="1698" height="507" key="GridCell.Tab.1.right/0.0.3440.1440/3440.211.1920.1080/-1280.435.1280.720@0.0.3440.1440" timestamp="1605700643503" />
-    <state x="-1235" y="230" key="new project wizard" timestamp="1609856895081">
-      <screen x="-1920" y="0" width="1920" height="1080" />
+    <state x="1227" y="307" key="new project wizard" timestamp="1612444891772">
+      <screen x="0" y="0" width="3440" height="1440" />
     </state>
     <state x="-1235" y="230" key="new project wizard/0.0.3440.1440/-1920.0.1920.1080/3440.150.1280.720@-1920.0.1920.1080" timestamp="1609856895081" />
+    <state x="1227" y="307" key="new project wizard/0.0.3440.1440/-1920.0.1920.1080/3440.150.1280.720@0.0.3440.1440" timestamp="1612444891772" />
     <state x="1793" y="307" key="new project wizard/0.0.3440.1440/3440.211.1920.1080/-1280.435.1280.720@0.0.3440.1440" timestamp="1605700151038" />
     <state x="4125" y="441" key="new project wizard/0.0.3440.1440/3440.211.1920.1080/-1280.435.1280.720@3440.211.1920.1080" timestamp="1606139936895" />
   </component>

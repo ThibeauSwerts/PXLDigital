@@ -73,7 +73,6 @@ public class Gondelbaan {
     }
 
 
-
     public String getNaam() {
         return naam;
     }
