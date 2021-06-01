@@ -1,0 +1,15 @@
+X:\PXLDigital\1ste jaar\.net essentials\Hoofdstuk 23\Prey Predator\Prey Predator\obj\Debug\Prey Predator.csprojAssemblyReference.cache
+X:\PXLDigital\1ste jaar\.net essentials\Hoofdstuk 23\Prey Predator\Prey Predator\obj\Debug\MainWindow.g.cs
+X:\PXLDigital\1ste jaar\.net essentials\Hoofdstuk 23\Prey Predator\Prey Predator\obj\Debug\App.g.cs
+X:\PXLDigital\1ste jaar\.net essentials\Hoofdstuk 23\Prey Predator\Prey Predator\obj\Debug\Prey Predator_MarkupCompile.cache
+X:\PXLDigital\1ste jaar\.net essentials\Hoofdstuk 23\Prey Predator\Prey Predator\obj\Debug\Prey Predator_MarkupCompile.lref
+X:\PXLDigital\1ste jaar\.net essentials\Hoofdstuk 23\Prey Predator\Prey Predator\bin\Debug\Prey Predator.exe.config
+X:\PXLDigital\1ste jaar\.net essentials\Hoofdstuk 23\Prey Predator\Prey Predator\bin\Debug\Prey Predator.exe
+X:\PXLDigital\1ste jaar\.net essentials\Hoofdstuk 23\Prey Predator\Prey Predator\bin\Debug\Prey Predator.pdb
+X:\PXLDigital\1ste jaar\.net essentials\Hoofdstuk 23\Prey Predator\Prey Predator\obj\Debug\MainWindow.baml
+X:\PXLDigital\1ste jaar\.net essentials\Hoofdstuk 23\Prey Predator\Prey Predator\obj\Debug\Prey Predator.g.resources
+X:\PXLDigital\1ste jaar\.net essentials\Hoofdstuk 23\Prey Predator\Prey Predator\obj\Debug\Prey_Predator.Properties.Resources.resources
+X:\PXLDigital\1ste jaar\.net essentials\Hoofdstuk 23\Prey Predator\Prey Predator\obj\Debug\Prey Predator.csproj.GenerateResource.cache
+X:\PXLDigital\1ste jaar\.net essentials\Hoofdstuk 23\Prey Predator\Prey Predator\obj\Debug\Prey Predator.csproj.CoreCompileInputs.cache
+X:\PXLDigital\1ste jaar\.net essentials\Hoofdstuk 23\Prey Predator\Prey Predator\obj\Debug\Prey Predator.exe
+X:\PXLDigital\1ste jaar\.net essentials\Hoofdstuk 23\Prey Predator\Prey Predator\obj\Debug\Prey Predator.pdb

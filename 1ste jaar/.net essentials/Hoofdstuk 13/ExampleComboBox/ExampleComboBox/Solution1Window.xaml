@@ -1,0 +1,18 @@
+﻿<Window x:Class="ExampleComboBox.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ExampleComboBox"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <ComboBox Name="colorComboBox" HorizontalAlignment="Left" Margin="228,64,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="colorComboBox_SelectionChanged">
+            <ComboBoxItem IsSelected="True">Red</ComboBoxItem>
+            <ComboBoxItem>Green</ComboBoxItem>
+            <ComboBoxItem>Blue</ComboBoxItem>
+        </ComboBox>
+        <Label Name="colorLabel" Background="Red" HorizontalAlignment="Left" Margin="89,127,0,0" VerticalAlignment="Top" Height="217" Width="495"/>
+
+    </Grid>
+</Window>

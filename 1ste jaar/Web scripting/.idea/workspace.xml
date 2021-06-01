@@ -29,6 +29,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="C:/nodeJS/node.exe" />
     <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -72,6 +73,7 @@
       <workItem from="1613481858820" duration="1472000" />
       <workItem from="1614087293009" duration="511000" />
       <workItem from="1614087845383" duration="629000" />
+      <workItem from="1617105696293" duration="1706000" />
     </task>
     <servers />
   </component>

@@ -1,0 +1,15 @@
+﻿<Window x:Class="Opgave_17._6.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Opgave_17._6"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="220.714" Width="443.571">
+    <Grid Margin="0,0,2,4">
+        <Label Content="E-mail:" HorizontalAlignment="Left" Height="30" Margin="33,46,0,0" VerticalAlignment="Top" Width="55"/>
+        <TextBox Name="InputTextBox" HorizontalAlignment="Left" Height="23" Margin="88,50,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="235"/>
+        <Button Content="Check" HorizontalAlignment="Left" Height="25" Margin="88,95,0,0" VerticalAlignment="Top" Width="228" Click="Button_Click"/>
+
+    </Grid>
+</Window>
