@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace DominationGame
 {
-    class DominationException
+    class DominationException : Exception
     {
+        public DominationException(string message) : base(message)
+        {
+        }
     }
 }

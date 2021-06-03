@@ -20,16 +20,10 @@ namespace Opgave_13._8
     public partial class Details : Window
     {
         private Person person;
-        private bool newPerson;
-        private MainWindow parentWindow;
 
-
-        public Details(Person person, MainWindow parent)
+        public Details(Person person)
         {
             InitializeComponent();
-
-            if (person.FirstName == ""){newPerson = true;}
-            this.parentWindow = parent;
             this.person = person;
 
             LastNameTextBox.Text = person.Lastname;
@@ -48,15 +42,7 @@ namespace Opgave_13._8
             person.Adress = AddressTextBox.Text;
             person.Phone = PhoneTextBox.Text;
             person.BirthDate = BirthdateTextBox.Text;
-
-            if (newPerson)
-            {
-                parentWindow.AddPerson(person);
-            }
-            else
-            {
-                parentWindow.UpdatePersonInfo(person);
-            }
+            this.Close();
         }
     }
 }
