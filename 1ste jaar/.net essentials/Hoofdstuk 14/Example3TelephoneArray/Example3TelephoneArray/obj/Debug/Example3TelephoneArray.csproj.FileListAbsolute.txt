@@ -1,0 +1,15 @@
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TING\H14\Example3TelephoneArray\Example3TelephoneArray\bin\Debug\Example3TelephoneArray.exe.config
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TING\H14\Example3TelephoneArray\Example3TelephoneArray\bin\Debug\Example3TelephoneArray.exe
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TING\H14\Example3TelephoneArray\Example3TelephoneArray\bin\Debug\Example3TelephoneArray.pdb
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TING\H14\Example3TelephoneArray\Example3TelephoneArray\obj\Debug\Example3TelephoneArray.csprojAssemblyReference.cache
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TING\H14\Example3TelephoneArray\Example3TelephoneArray\obj\Debug\MainWindow.g.cs
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TING\H14\Example3TelephoneArray\Example3TelephoneArray\obj\Debug\App.g.cs
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TING\H14\Example3TelephoneArray\Example3TelephoneArray\obj\Debug\Example3TelephoneArray_MarkupCompile.cache
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TING\H14\Example3TelephoneArray\Example3TelephoneArray\obj\Debug\Example3TelephoneArray_MarkupCompile.lref
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TING\H14\Example3TelephoneArray\Example3TelephoneArray\obj\Debug\MainWindow.baml
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TING\H14\Example3TelephoneArray\Example3TelephoneArray\obj\Debug\Example3TelephoneArray.g.resources
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TING\H14\Example3TelephoneArray\Example3TelephoneArray\obj\Debug\Example3TelephoneArray.Properties.Resources.resources
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TING\H14\Example3TelephoneArray\Example3TelephoneArray\obj\Debug\Example3TelephoneArray.csproj.GenerateResource.cache
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TING\H14\Example3TelephoneArray\Example3TelephoneArray\obj\Debug\Example3TelephoneArray.csproj.CoreCompileInputs.cache
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TING\H14\Example3TelephoneArray\Example3TelephoneArray\obj\Debug\Example3TelephoneArray.exe
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TING\H14\Example3TelephoneArray\Example3TelephoneArray\obj\Debug\Example3TelephoneArray.pdb

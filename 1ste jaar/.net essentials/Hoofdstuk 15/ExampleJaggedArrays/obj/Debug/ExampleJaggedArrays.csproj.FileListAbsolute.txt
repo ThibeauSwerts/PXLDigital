@@ -1,0 +1,15 @@
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TING\H15\ExampleJaggedArrays\bin\Debug\ExampleJaggedArrays.exe.config
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TING\H15\ExampleJaggedArrays\bin\Debug\ExampleJaggedArrays.exe
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TING\H15\ExampleJaggedArrays\bin\Debug\ExampleJaggedArrays.pdb
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TING\H15\ExampleJaggedArrays\obj\Debug\ExampleJaggedArrays.csprojAssemblyReference.cache
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TING\H15\ExampleJaggedArrays\obj\Debug\MainWindow.g.cs
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TING\H15\ExampleJaggedArrays\obj\Debug\App.g.cs
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TING\H15\ExampleJaggedArrays\obj\Debug\ExampleJaggedArrays_MarkupCompile.cache
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TING\H15\ExampleJaggedArrays\obj\Debug\ExampleJaggedArrays_MarkupCompile.lref
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TING\H15\ExampleJaggedArrays\obj\Debug\MainWindow.baml
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TING\H15\ExampleJaggedArrays\obj\Debug\ExampleJaggedArrays.g.resources
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TING\H15\ExampleJaggedArrays\obj\Debug\ExampleJaggedArrays.Properties.Resources.resources
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TING\H15\ExampleJaggedArrays\obj\Debug\ExampleJaggedArrays.csproj.GenerateResource.cache
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TING\H15\ExampleJaggedArrays\obj\Debug\ExampleJaggedArrays.csproj.CoreCompileInputs.cache
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TING\H15\ExampleJaggedArrays\obj\Debug\ExampleJaggedArrays.exe
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TING\H15\ExampleJaggedArrays\obj\Debug\ExampleJaggedArrays.pdb

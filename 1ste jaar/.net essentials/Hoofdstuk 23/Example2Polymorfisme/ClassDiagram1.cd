@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Example2Polymorfisme.ColoredSphere" Collapsed="true">
+    <Position X="5.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAgIAAAAIEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ColoredSphere.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Example2Polymorfisme.Picture" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAQAIBASAAAAAAAIAAEAAABAAQAAAQAAAAAAAYAA=</HashCode>
+      <FileName>Picture.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Example2Polymorfisme.Shape" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAQAIBASAAAAEAAIAAEAAABAAAAAAQAAAAQAAYAA=</HashCode>
+      <FileName>Shape.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Example2Polymorfisme.Sphere" Collapsed="true">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAQAABIACAAAEAAAAAEAAAAAAAIAAAAAAAQAAAAA=</HashCode>
+      <FileName>Sphere.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Example2Polymorfisme.Square" Collapsed="true">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAQAABAAAAAAEAAAAAEAAAAAAAAAgAAAAAQAAAAA=</HashCode>
+      <FileName>Square.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Example2Polymorfisme.Triangle" Collapsed="true">
+    <Position X="3" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAQAAAAABAAAEAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Triangle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Example2Polymorfisme.IDrawable" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAQAABAAAAAAAAAAAAEAAAAAAAAAAQAAAAAAAYAA=</HashCode>
+      <FileName>IDrawable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Example2Polymorfisme.IScaleable" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IScaleable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

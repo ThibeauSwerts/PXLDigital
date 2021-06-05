@@ -1,0 +1,15 @@
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TING\H14\Example4TelephoneDictionary\Example4TelephoneDictionary\bin\Debug\Example4TelephoneDictionary.exe.config
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TING\H14\Example4TelephoneDictionary\Example4TelephoneDictionary\bin\Debug\Example4TelephoneDictionary.exe
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TING\H14\Example4TelephoneDictionary\Example4TelephoneDictionary\bin\Debug\Example4TelephoneDictionary.pdb
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TING\H14\Example4TelephoneDictionary\Example4TelephoneDictionary\obj\Debug\Example4TelephoneDictionary.csprojAssemblyReference.cache
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TING\H14\Example4TelephoneDictionary\Example4TelephoneDictionary\obj\Debug\MainWindow.g.cs
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TING\H14\Example4TelephoneDictionary\Example4TelephoneDictionary\obj\Debug\App.g.cs
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TING\H14\Example4TelephoneDictionary\Example4TelephoneDictionary\obj\Debug\Example4TelephoneDictionary_MarkupCompile.cache
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TING\H14\Example4TelephoneDictionary\Example4TelephoneDictionary\obj\Debug\Example4TelephoneDictionary_MarkupCompile.lref
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TING\H14\Example4TelephoneDictionary\Example4TelephoneDictionary\obj\Debug\MainWindow.baml
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TING\H14\Example4TelephoneDictionary\Example4TelephoneDictionary\obj\Debug\Example4TelephoneDictionary.g.resources
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TING\H14\Example4TelephoneDictionary\Example4TelephoneDictionary\obj\Debug\Example4TelephoneDictionary.Properties.Resources.resources
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TING\H14\Example4TelephoneDictionary\Example4TelephoneDictionary\obj\Debug\Example4TelephoneDictionary.csproj.GenerateResource.cache
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TING\H14\Example4TelephoneDictionary\Example4TelephoneDictionary\obj\Debug\Example4TelephoneDictionary.csproj.CoreCompileInputs.cache
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TING\H14\Example4TelephoneDictionary\Example4TelephoneDictionary\obj\Debug\Example4TelephoneDictionary.exe
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TING\H14\Example4TelephoneDictionary\Example4TelephoneDictionary\obj\Debug\Example4TelephoneDictionary.pdb

@@ -1,0 +1,16 @@
+﻿<Window x:Class="Example2Array1dim.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Rainfall" Height="360" Width="350">
+    <Grid>
+       <Button Content="Change" HorizontalAlignment="Left" Margin="109,19,0,0"
+                VerticalAlignment="Top" Width="75"
+                Name="changeButton" Click="changeButton_Click"/>
+        <TextBox HorizontalAlignment="Left" Height="125" Margin="58,55,0,0"
+                 TextWrapping="Wrap" VerticalAlignment="Top" Width="170"
+                 Name="rainfallTextBox"/>
+        <TextBlock TextWrapping="Wrap"  HorizontalAlignment="Left" Margin="58,185,0,0"
+               VerticalAlignment="Top" Name="largestTextBlock" Width="170"/>
+        <Label Content="" Name="totalLabel" HorizontalAlignment="Left" Margin="58,241,0,0" VerticalAlignment="Top"/>
+    </Grid>
+</Window>

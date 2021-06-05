@@ -1,0 +1,9 @@
+gegevens wegschrijven naar ...\bin\debug
+kfkfkf
+elelele
+mememe
+lklklkl lklklkk lklklk
+einde
+gegevens wegschrijven met filestream
+Dit is bijna klaar!!!
+einde

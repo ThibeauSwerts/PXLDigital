@@ -1,0 +1,15 @@
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TING\H23\ExampleList\bin\Debug\ExampleList.exe.config
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TING\H23\ExampleList\bin\Debug\ExampleList.exe
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TING\H23\ExampleList\bin\Debug\ExampleList.pdb
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TING\H23\ExampleList\obj\Debug\ExampleList.csprojAssemblyReference.cache
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TING\H23\ExampleList\obj\Debug\MainWindow.g.cs
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TING\H23\ExampleList\obj\Debug\App.g.cs
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TING\H23\ExampleList\obj\Debug\ExampleList_MarkupCompile.cache
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TING\H23\ExampleList\obj\Debug\ExampleList_MarkupCompile.lref
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TING\H23\ExampleList\obj\Debug\MainWindow.baml
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TING\H23\ExampleList\obj\Debug\ExampleList.g.resources
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TING\H23\ExampleList\obj\Debug\ExampleList.Properties.Resources.resources
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TING\H23\ExampleList\obj\Debug\ExampleList.csproj.GenerateResource.cache
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TING\H23\ExampleList\obj\Debug\ExampleList.csproj.CoreCompileInputs.cache
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TING\H23\ExampleList\obj\Debug\ExampleList.exe
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TING\H23\ExampleList\obj\Debug\ExampleList.pdb
