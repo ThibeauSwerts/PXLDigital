@@ -1,0 +1,78 @@
+Strings:
+.Compare();
+.ToLower();
+.Trim(); haalt spaties weg voor en achter
+.Insert(); voegt een "" toe in de opgegeven plaats
+.Remove();
+.Substring(2,3); maakt een nieuwe string van 3 characters startend vanaf char 2
+.IndexOf(); zoekt een woord in een string
+.LastIndeOf();
+
+Exception:
+public DominationException(string message) : base(message){}
+
+catch (InvalidEmailException ex) when (ex.Severity > 10)
+{
+Log(ex.Message);
+}
+
+of
+
+catch (InvalidEmailException ex) when (ex.Severity <= 10)
+{
+messageBox.Show("Please enter a valid address"
+}
+
+Files:
+schrijven:
+StreamWriter writer = File.CreateText(@"C:\Users\20002375\Documents\Thibeau\C#\20192020\myfile.txt");
+writer.WriteLine("This file will");
+Writer.Write("contain 3");
+writer.Writeline("lines of text.");
+writer.close();
+
+met Filestream:
+filestream = new FileStream("writing1.txt", Filemode.append, FileAcces.Write);
+writer = new StreamWriter(fileStream)
+
+veel gebruikte locatie met SpecialFolder:
+string folderpath = enviroment.GetFolderPath(enviroment.specialFolder.mydocuments);
+string filepath = System.IO.Path.Combine(folderpath,"myfile.txt);
+
+Lezen:
+string folderpath = enviroment.GetFolderPath(enviroment.specialFolder.mydocuments);
+string filepath = System.IO.Path.Combine(folderpath,"myfile.txt");
+StreamReader reader = File.OpenText(filePath);
+string line = reader.Readline()
+while (line != null)
+{
+fileTextBox.AppendText(line);
+fileTextBox.AppendText(Enviroment.NewLine);
+line = reader.Readline();
+}
+reader.Close();
+
+FileDialog:
+OpenFileDialog dialog = new OpenFileDialog();
+string initialFolderPath = Enviroment.GetFolderPath(Enviroment.Specialfolder.Mypictures);
+Dialog.InitialDirectory = initialFolderPath
+Dialog.Filter = "Image Files|*.BMP;"+"*.JPG,*.GIF|All filles|*.*";
+if(openFileDialog.ShowDialog() == true)
+{
+reader = File.OpenText(openFileDialog.FileName);
+outputTextBox.Text= reader.ReadToEnd();
+}
+
+Dialog: 
+FolderBrowserDialog dialog = new FolderBrowserDialog();
+dialog.RootFolder = Enviroment.SpecialFolder.MyComputer;
+if(dialog.Showdialog() == system.windows.forms.DialogResult.OK)
+{
+string path = dialog.SelectedPath;
+folderTextBlock.Text = path;
+}
+
+beste oef voor voorbeelden bestanden = h18 opdracht 9
+
+menu = dockpanel <Menu DockPanel.Dock="Top"> <seperator :> zie oefening H18 opdracht 9
+
